@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-hashmaps3
+quiz2
 
 intro1
 intro2
