@@ -1,7 +1,5 @@
 DON'T EDIT THIS FILE!
 
-errors1
-
 intro1
 intro2
 variables1
